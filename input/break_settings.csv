@@ -1,0 +1,12 @@
+workers,break_length,num_breaks,earliest_break_start,latest_break_end
+A,3,1,8,8
+B,3,1,8,8
+C,3,1,8,8
+D,2,1,4,4
+E,2,1,4,4
+F,3,1,8,8
+G,3,1,8,8
+H,2,1,4,4
+I,3,1,8,8
+J,0,0,0,0
+K,0,0,0,0
